@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AngularJS",
+		"AngularJS Snippets",
+		"AutoFileName",
+		"Babel",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Jade",
+		"Jasmine JS",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"JavaScript Ultimate",
+		"Jekyll",
+		"JSCS-Formatter",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jscs",
+		"Travis YML Lint",
+		"WakaTime"
+	]
+}
