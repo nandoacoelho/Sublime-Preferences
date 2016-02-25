@@ -25,7 +25,7 @@
   <string>oceanic.next.dark</string>
   <key>settings</key>
   <array>
-    <dict>
+<dict>
       <key>settings</key>
       <dict>
         <key>background</key>
@@ -33,7 +33,7 @@
         <key>caret</key>
         <string>#FFCC00</string>
         <key>foreground</key>
-        <string>#c0c5ce70</string>
+        <string>#eeffffff</string>
         <key>invisibles</key>
         <string>#65737e</string>
         <key>lineHighlight</key>
@@ -54,6 +54,8 @@
         <string>underline</string>
         <key>shadow</key>
         <string>#00000010</string>
+        <key>selectionBorder</key>
+        <string>#4F4F4F</string>
       </dict>
     </dict>
     <dict>
@@ -64,7 +66,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#444444</string>
+        <string>#65737e</string>
       </dict>
     </dict>
     <dict>
@@ -351,16 +353,6 @@
             </dict>
         </dict><dict>
             <key>name</key>
-            <string>SublimeLinter Gutter Mark</string>
-            <key>scope</key>
-            <string>sublimelinter.gutter-mark</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFFFFF</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
             <string>SublimeLinter Warning</string>
             <key>scope</key>
             <string>sublimelinter.mark.warning</string>
@@ -368,6 +360,16 @@
             <dict>
                 <key>foreground</key>
                 <string>#DDB700</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Gutter Mark</string>
+            <key>scope</key>
+            <string>sublimelinter.gutter-mark</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
             </dict>
         </dict></array>
   <key>uuid</key>

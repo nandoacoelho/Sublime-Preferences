@@ -1,0 +1,10 @@
+{
+    "access_token": "fb5c58854ae7d2ecec9e3799db6e4fedd36aeaed",
+    "gist_id": "Sublime Sync",
+    "included_files": [
+        ".txt",
+        "SublimeLinter/some_file.py",
+        "awesome_file.py",
+        "path/to/other/awesome/file.py"
+    ]
+}
